@@ -2,13 +2,13 @@
 *.xcodeproj
 *.xcconfig
 *.app
-bin/data/images/*
-bin/data/models/*
-bin/data/obj/*
-bin/data/photos/*
-bin/data/Video/*
-bin/data/visu/*
+Icon
+*.DS_Store
 build/*
+*.mp4
+*.jpg
+*.mtl
+*.obj
 
 
 

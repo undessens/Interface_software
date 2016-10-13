@@ -1,0 +1,14 @@
+saveName:okokZ
+loadName:okokZ
+baton:
+screenN:0
+alpha:100
+mode:0
+thickness:20
+velocity:1, 0, 0
+maxsize:20
+ColorRuban:
+screenN:0
+boule2gomme:
+screenN:0
+rayon:2

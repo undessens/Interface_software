@@ -1,0 +1,37 @@
+<Visu>
+	<screens>
+		<screen0>
+			<p0>0, 0, 0</p0>
+			<p1>1280, 0, 0</p1>
+			<p2>1280, 800, 0</p2>
+			<p3>0, 800, 0</p3>
+		</screen0>
+	</screens>
+	<boule2gomme>
+		<screenN>0</screenN>
+		<isMapping>1</isMapping>
+		<rayon>2</rayon>
+		<center>0.5, 0.5</center>
+	</boule2gomme>
+	<particles>
+		<screenN>0</screenN>
+		<isMapping>1</isMapping>
+		<timeStep>0.0434783</timeStep>
+		<numParticles>1000000</numParticles>
+		<particleSize>3</particleSize>
+		<alphaparticle>1</alphaparticle>
+		<partcolor>0, 0, 1</partcolor>
+		<isGradient>0</isGradient>
+		<gradtype>1</gradtype>
+		<mingrad>0</mingrad>
+		<gradName>rasta</gradName>
+		<maxgrad>1</maxgrad>
+		<origin>
+			<k>0.1</k>
+			<z>0.05</z>
+			<freeze>0</freeze>
+		</origin>
+	</particles>
+	<saveName/>
+	<loadName/>
+</Visu>

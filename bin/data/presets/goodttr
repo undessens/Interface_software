@@ -1,0 +1,134 @@
+<OF>
+	<screens>
+		<isMasking>1</isMasking>
+		<screen0>
+			<p0>0, 0, 0</p0>
+			<p1>1, 0, 0</p1>
+			<p2>1, 1, 0</p2>
+			<p3>0, 1, 0</p3>
+		</screen0>
+		<screen1>
+			<p0>0.012, 0.384, 0</p0>
+			<p1>0.412, 0.384, 0</p1>
+			<p2>0.412, 0.984, 0</p2>
+			<p3>0.012, 0.884, 0</p3>
+		</screen1>
+		<screen2>
+			<p0>0.112, 0.084, 0</p0>
+			<p1>0.612, 0.204, 0</p1>
+			<p2>0.59, 0.214, 0</p2>
+			<p3>0.012, 0.284, 0</p3>
+		</screen2>
+		<screen3>
+			<p0>0.752, 0, 0</p0>
+			<p1>0.952, 0, 0</p1>
+			<p2>0.95, 0.94, 0</p2>
+			<p3>0.712, 0.95, 0</p3>
+		</screen3>
+	</screens>
+	<global>
+		<loadName/>
+		<saveName>/Users/mhermant/Documents/OF8/CarnozetApps/GitApps/MurMur d&apos;Ombre/bin/data/presets/goodttr</saveName>
+		<finalblur>0</finalblur>
+		<saturation>1</saturation>
+		<contrast>1.01</contrast>
+		<brightness>1</brightness>
+		<rback>0</rback>
+		<gback>0</gback>
+		<bback>0</bback>
+		<alphablur>255</alphablur>
+		<camera>
+			<alpha>0.4</alpha>
+			<distance>1</distance>
+			<ypr>0, 0, 0</ypr>
+		</camera>
+	</global>
+	<Visu>
+		<background>
+			<screenN>-1</screenN>
+			<recopy>1</recopy>
+			<isMapping>1</isMapping>
+			<type>0</type>
+			<center>0.5, 0.5</center>
+			<color>255, 255, 255, 255</color>
+			<scale>1</scale>
+			<ratio>1</ratio>
+			<fill>1</fill>
+		</background>
+		<boule2gomme>
+			<screenN>-1</screenN>
+			<recopy>1</recopy>
+			<isMapping>1</isMapping>
+			<rayon>2</rayon>
+			<center>0.0153061, 0.617347</center>
+		</boule2gomme>
+		<particles>
+			<screenN>0</screenN>
+			<recopy>1</recopy>
+			<isMapping>1</isMapping>
+			<timeStep>1</timeStep>
+			<numParticles>114921</numParticles>
+			<particleSize>3.45</particleSize>
+			<alphaparticle>0.5</alphaparticle>
+			<partcolor>0, 255, 1</partcolor>
+			<isGradient>0</isGradient>
+			<gradtype>0</gradtype>
+			<gradNum>0</gradNum>
+			<mingrad>0</mingrad>
+			<maxgrad>1</maxgrad>
+			<netCompRatio>8</netCompRatio>
+			<origin>
+				<isActive>0</isActive>
+				<k>0.00637755</k>
+				<z>0.00357143</z>
+				<freeze>0</freeze>
+			</origin>
+			<gravity>
+				<isActive>0</isActive>
+				<r>0.0765306</r>
+				<mass>9.18367e-05</mass>
+				<massin>-7.65306e-05</massin>
+				<damp>0.883673</damp>
+			</gravity>
+			<netw>
+				<isActive>1</isActive>
+				<k>0.00306122</k>
+				<l0>2</l0>
+				<z>0.0459184</z>
+			</netw>
+			<neth>
+				<isActive>1</isActive>
+				<k>0.00204082</k>
+				<l0>1.26531</l0>
+				<z>0.0795918</z>
+			</neth>
+			<spring>
+				<isActive>1</isActive>
+				<k>0.0510204</k>
+				<l0>0.01</l0>
+				<z>0.484694</z>
+				<mode>0</mode>
+			</spring>
+			<fieldForce>
+				<isActive>1</isActive>
+				<k>0</k>
+				<velouty>0</velouty>
+				<veloutz>0</veloutz>
+				<veloutborder>0</veloutborder>
+				<minv>0.1</minv>
+				<maxv>0.8</maxv>
+			</fieldForce>
+			<globalForce>
+				<isActive>0</isActive>
+				<f>0.998867</f>
+				<fmin>1</fmin>
+				<vmax>0.459184</vmax>
+				<vmin>0</vmin>
+			</globalForce>
+		</particles>
+		<blobBlur>0</blobBlur>
+		<attrCtl>
+			<zoffset>0.5</zoffset>
+		</attrCtl>
+	</Visu>
+</OF>

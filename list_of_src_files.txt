@@ -1,0 +1,47 @@
+-----------------
+Visu ( contain all the small visu app, except the particule one )
+	Liner ( .cpp .h)
+	VideoPlayer
+	BallManager
+	Balls
+	CircleLine
+	AutoTree
+	background
+	metaBalls
+	Ruban
+	Baton	
+	boule2gomme
+	drawBlob
+	Photo
+------------------
+VisuHandler ( visu manager )
+	VisuHandler
+	VisuClass ( virtual clas )
+
+------------------
+Ecrans ( screens to display manager )
+	homography.h
+	Warp ( .cpp .h)
+	Ecrans
+	EcranHandler
+-------------------
+Particle
+	ParticlesHandler ( this inherit also from VisuClass ), but more more complex
+-------------------
+Blob Handler
+	BlobHandler ( find blob from kinect )
+-------------------
+Attractors
+	AttrCtl ( find smart and intersting point according to blob(s) position
+-------------------
+OpenGL camera
+	CamHandler ( the scene is 3D, with an openGL camera than can move )
+-----------------
+GUI	
+	Gui (  ... )
+-----------------
+Others
+	Constants.h ( like FPS or other stuff )
+	main.cpp
+	testApp ( Main openframworks file !!!!! Start from here
+

@@ -1,0 +1,13 @@
+ofxGui
+ofxOsc ( maybe old version )
+ofxSyphon
+ofx3DModelLoader ( not used anymore )
+ofxDirList ( list directory, navigate )
+ofxNetWork
+ofxOpenCv ( blob finder )
+ofxThread
+ofxVectorGraphics
+ofxVectorMath
+ofxXmlSettings ( save file as xml )
+ofxAssimpModelLoader ( probably not used, as 3dModelLoader )
+
